@@ -1,9 +1,9 @@
 
 ["Customisable Chat Greeting Message"]
 	#The text to be displayed in chat.
-	"#2) Greeting Message Text" = "Hello there! Welcome to my modpack."
+	"#2) Greeting Message Text" = "Hello there! Welcome to my modpack! If you want to cut whole tree, shift break logs with axe in hand"
 	#Customisable message that will be displayed in chat when a world is loaded.
-	"#1) Display Chat Greeting Message?" = false
+	"#1) Display Chat Greeting Message?" = true
 
 ["Customisable Start Message"]
 	#Customisable message box that will be displayed when the game is started. This is useful for displaying credits.

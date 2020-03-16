@@ -1,4 +1,25 @@
 {
   "kits": {
-    
+    "tools": {
+      "duration": 3600,
+      "items": [
+        {
+          "name": "minecraft:wooden_sword",
+          "quantity": 1,
+        },
+        {
+          "name": "minecraft:wooden_pickaxe",
+          "quantity": 1,
+        },
+        {
+          "name": "minecraft:wooden_axe",
+          "quantity": 1,
+        },
+        {
+          "name": "minecraft:wooden_shovel",
+          "quantity": 1,
+        }
+      ]
+    }
+  }
 }

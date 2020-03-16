@@ -15,11 +15,11 @@
 	#Range: > 0
 	maxBasicIncomeSavings = 5
 	#Give each player credits daily.
-	basicIncome = true
+	basicIncome = false
 	#Currency name (max 20 char)
-	currencyNameSingular = "gp"
+	currencyNameSingular = "$"
 	#Currency name (max 20 char)
-	currencyNameMultiple = "gp"
+	currencyNameMultiple = "$"
 	#The amount of basic income to be given to a player.
 	#Range: > 0
 	basicIncomeAmount = 50
